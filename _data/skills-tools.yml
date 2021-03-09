@@ -9,28 +9,37 @@
   weight: 5
 
 - name: Bash
-  weight: 3
+  weight: 5
 
 - name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
+  weight: 5
 
 - name: Jenkins
-  weight: 1
+  weight: 5
 
 - name: Chrome DevTools
-  weight: 2
+  weight: 5
+
+- name: FireFox DevTools
+  weight: 5
 
 - name: npm
-  weight: 2
+  weight: 5
 
-- name: gulp
-  weight: 4
+- name: grunt
+  weight: 5
 
-- name: VS Code
+- name: bundle
+  weight: 3
+
+- name: gems
+  weight: 5
+
+- name: Atom
   weight: 3
 
 - name: Postman
   weight: 4
+
+- name: pip3
+  weight: 3

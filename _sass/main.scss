@@ -1,6 +1,6 @@
 /* Imports */
 
-@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&display=swap');
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
 
 /* Variables */
@@ -8,19 +8,15 @@
 $small-screen: 48em !default;
 $medium-screen: 62em !default;
 $large-screen: 75em !default;
-$font-family: "Raleway", sans-serif;
+$font-family: "Comfortaa", sans-serif;
 $font-family-numbers: "Josefin Sans", sans-serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
-$text-color: #fff !default;
-$bg-color: rgba(43, 45, 47, 1);
-$card-bg-color: linear-gradient(
-  145deg,
-  rgba(115, 115, 115, 0.15) 15%,
-  rgba(43, 45, 47, 1) 80%
-);
-$primary-color: #ff073a;
+$text-color: #000 !default;
+$bg-color: white;
+$card-bg-color:white;
+$primary-color: #FB0173;
 
 /* General */
 
@@ -107,11 +103,7 @@ a {
 }
 
 .neumorphism-button {
-  background: linear-gradient(
-    145deg,
-    rgba(100, 100, 105, 0.15) 15%,
-    rgba(33, 33, 33, 0.4) 80%
-  );
+  background:white;
   box-shadow: -4px -3px 2px 0 rgba(250, 250, 250, 0.13),
     4px 4px 2px 0 rgba(0, 0, 0, 0.4);
 }
@@ -128,12 +120,10 @@ a {
 }
 
 .neumorphism-card {
-  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 1),
-    inset -2px -2px 4px rgba(99, 99, 99, 1);
+
 }
 
 .neumorphism-card-big {
-  box-shadow: 5px 5px 4px #161718, -5px -5px 4px #404346;
 }
 
 /* Preloader */
@@ -251,7 +241,7 @@ a {
   justify-content: center;
 
   .social-link {
-    color: $text-color;
+    color: black;
     position: relative;
     height: 3rem;
     line-height: 3rem;
@@ -260,7 +250,7 @@ a {
 
     .circle {
       animation: outWaveOut 1s cubic-bezier(0.42, 0, 0.58, 1) forwards;
-      fill: none;
+      fill: $primary-color;
       stroke-dasharray: 40;
       transition: all 0.2s ease-in-out;
     }
@@ -287,8 +277,8 @@ a {
       .circle {
         animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
           colorBlackIcon 1s linear forwards;
-        fill: $text-color;
-        fill-opacity: 1;
+        fill: $primary-color;
+        fill-opacity: .9;
       }
 
       .social-svg {
@@ -309,7 +299,7 @@ a {
         colorEmail 1s linear forwards;
     }
     .social-svg {
-      fill: #d44638;
+      fill: black;
     }
   }
 
@@ -319,7 +309,7 @@ a {
         colorLinkedin 1s linear forwards;
     }
     .social-svg {
-      fill: #007bb6;
+      fill: black;
     }
   }
 
@@ -329,7 +319,7 @@ a {
         colorTwitter 1s linear forwards;
     }
     .social-svg {
-      fill: #1da1f2;
+      fill: black;
     }
   }
 
@@ -361,19 +351,19 @@ a {
 
   @keyframes colorEmail {
     to {
-      stroke: #b23121;
+      stroke: black;
     }
   }
 
   @keyframes colorLinkedin {
     to {
-      stroke: #007bb6;
+      stroke: black;
     }
   }
 
   @keyframes colorTwitter {
     to {
-      stroke: #1da1f2;
+      stroke: black;
     }
   }
 }
@@ -392,15 +382,15 @@ a {
   }
 
   div[skill-type="language"] {
-    color: #e84a5f;
+    color: #EC1175;
   }
 
   div[skill-type="framework"] {
-    color: #ff847c;
+    color: #DC2176;
   }
 
   div[skill-type="tool"] {
-    color: #fecea8;
+    color:#CD3078;
   }
 
   div[skill-weight="1"] {
