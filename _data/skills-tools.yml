@@ -8,6 +8,9 @@
 - name: Git
   weight: 5
 
+- name: a11y
+  weight: 4
+
 - name: Bash
   weight: 5
 
@@ -17,10 +20,7 @@
 - name: Jenkins
   weight: 5
 
-- name: Chrome DevTools
-  weight: 5
-
-- name: FireFox DevTools
+- name: Browser DevTools
   weight: 5
 
 - name: npm
@@ -36,10 +36,34 @@
   weight: 5
 
 - name: Atom
+  weight: 5
+
+- name: VSCode
   weight: 3
 
 - name: Postman
+  weight: 5
+
+- name: GitHub
+  weight: 5
+
+- name: GitLab
   weight: 4
 
+- name: Docker
+  weight: 4
+
+- name: Jenkins
+  weight: 4
+
+- name: AWS
+  weight: 4
+
+- name: Azure
+  weight: 1
+
 - name: pip3
-  weight: 3
+  weight: 4
+
+- name: Netlify
+  weight: 4

@@ -1,6 +1,6 @@
 /* Imports */
 
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&display=swap');
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
 
 /* Variables */
@@ -8,11 +8,11 @@
 $small-screen: 48em !default;
 $medium-screen: 62em !default;
 $large-screen: 75em !default;
-$font-family: "Comfortaa", sans-serif;
+$font-family: "Anonymous Pro";
 $font-family-numbers: "Josefin Sans", sans-serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
-$font-weight-strong: 600;
+$font-weight-strong: 700;
 $text-color: #000 !default;
 $bg-color: white;
 $card-bg-color:white;
@@ -57,7 +57,7 @@ a {
 
 .highlight-title {
   color: $primary-color;
-  text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;
+  text-shadow: 0.15rem 0.15rem 0.15rem #01FB89;
 }
 
 .highlight-link {
@@ -104,19 +104,19 @@ a {
 
 .neumorphism-button {
   background:white;
-  box-shadow: -4px -3px 2px 0 rgba(250, 250, 250, 0.13),
-    4px 4px 2px 0 rgba(0, 0, 0, 0.4);
+  border: 2px dotted $primary-color;
 }
 
 @mixin neumorphism-button-pressed {
+    color: white;
   background: linear-gradient(
     150deg,
-    rgba(20, 20, 20, 0.4) 10%,
-    rgba(115, 115, 115, 0.15) 80%
+    rgba(251, 1, 115, 0.9) 50%,
+    rgba(251, 1, 115, 0.7) 80%
   );
-  box-shadow: 1px 1px 2px 0 rgba(210, 210, 210, 0.4),
-    -1px -1px 2px rgba(0, 0, 0, 0.4), inset 3px 3px 2px 0 rgba(0, 0, 0, 0.4),
-    inset -1px -2px 2px rgba(210, 210, 210, 0.4);
+  // box-shadow: 1px 1px 2px 0 rgba(210, 210, 210, 0.4),
+  //   -1px -1px 2px rgba(0, 0, 0, 0.4), inset 3px 3px 2px 0 rgba(0, 0, 0, 0.4),
+  //   inset -1px -2px 2px rgba(210, 210, 210, 0.4);
 }
 
 .neumorphism-card {

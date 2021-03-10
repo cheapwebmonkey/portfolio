@@ -8,16 +8,28 @@
 - name: Angular
   weight: 2
 
-- name: React
+- name: ALexa SDK
+  weight: 5
+
+- name: Hugo
   weight: 1
 
-- name: Node
+- name: Gatsby
+  weight: 3
+
+- name: Nodejs
   weight: 5
 
 - name: Flutter
   weight: 1
 
+- name: Perfect
+  weight: 2
+
 - name: Django
+  weight: 3
+
+- name: Flask
   weight: 3
 
 - name: Rails
@@ -26,8 +38,8 @@
 - name: Vue
   weight: 4
 
+- name: VuePress
+  weight: 3
+
 - name: Jekyll
   weight: 5
-
-- name: Netlify
-  weight: 4
