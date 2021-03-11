@@ -1,6 +1,18 @@
 <h1 class="title">{{site.contact_title}}</h1>
 <p class="subtitle">{{site.contact_description}}</p>
 
+
+<div class="contact-icons">
+  {% if site.sms != null %}
+  <a class="social-link" aria-label="My E-Mail" href="sms:{{site.sms}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#phone" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
 <div class="contact-icons">
   {% if site.email != null %}
   <a class="social-link" aria-label="My E-Mail" href="mailto:{{site.email}}">

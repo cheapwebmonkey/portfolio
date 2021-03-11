@@ -10,12 +10,12 @@ $medium-screen: 62em !default;
 $large-screen: 75em !default;
 $font-family: "Anonymous Pro";
 $font-family-numbers: "Josefin Sans", sans-serif;
-$font-size-base: 1rem !default;
+$font-size-base: 18px !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 700;
-$text-color: #000 !default;
-$bg-color: white;
-$card-bg-color:white;
+$text-color: #FAFAFA !default;
+$bg-color:  #000;
+$card-bg-color: #000;
 $primary-color: #FB0173;
 
 /* General */
@@ -103,12 +103,12 @@ a {
 }
 
 .neumorphism-button {
-  background:white;
+  background: #000;
   border: 2px dotted $primary-color;
 }
 
 @mixin neumorphism-button-pressed {
-    color: white;
+    color:  #000;
   background: linear-gradient(
     150deg,
     rgba(251, 1, 115, 0.9) 50%,
@@ -621,19 +621,19 @@ a {
 
   .black:hover {
     .social-svg {
-      fill: #000;
+      fill: $text-color;
     }
   }
 
   .linkedin:hover {
     .social-svg {
-      fill: #007bb6;
+      fill: $text-color;
     }
   }
 
   .twitter:hover {
     .social-svg {
-      fill: #1da1f2;
+      fill: $text-color;
     }
   }
 }

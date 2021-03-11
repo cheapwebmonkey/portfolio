@@ -16,6 +16,7 @@ username: Margeaux
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Software Engineer
 # email: Your E-Mail address for the email button.
+sms: 502-930-9544
 email: code@margeaux.dev
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
@@ -50,7 +51,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Experience & Press
+timeline_title: Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: /assets/img/mx-resume-web.pdf
@@ -69,7 +70,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -81,7 +82,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/cheapwebmonkey/portfolio" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Contact details below (I prefer SMS) and be sure to checkout my open source workt for the orgs I admin and maintain on Github <a class="highlight-link" href="https://github.com/civicdata" target="_blank" rel="noreferrer"> Civic Data Alliance </a>, <a class="highlight-link" href="https://github.com/OhioValleyCreativeEnergy" target="_blank" rel="noreferrer"> Ohio Valley Creative Energy </a> & <a class="highlight-link" href="https://github.com/Data4Democracy" target="_blank" rel="noreferrer"> Data for Democracy </a>
 
 # GITHUB-METADATA
 # Set this to your forked repository

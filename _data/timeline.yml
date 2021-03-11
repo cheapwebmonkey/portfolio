@@ -1,51 +1,109 @@
-- title: Global Data Ethics
-  title-url: https://www.techatbloomberg.com/blog/why-we-need-community-driven-tech-ethics-two-years-of-the-global-data-ethics-project/
-  date: Sep 2017 - Present
-  subtitle: Software Engineer
-  tags:
-    - tag: A Linux Foundation Project
-    - tag: Jekyll
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Git
-    - tag: Github
-  timeline-side: right
-
 - title: Civic Data Alliance
   title-url: https://civicdataalliance.org
-  date: Aug 2015 - Present
+  date: Presently Employed
   subtitle: Software Engineer, Community Advocate
   tags:
     - tag: Python
     - tag: Django
     - tag: iOS
-    - tag: Official Alexa Skills for the city of Louisville
+    - tag: Alexa Skills
     - tag: Jekyll
     - tag: Rails
     - tag: MapBox
     - tag: CSS Animations
     - tag: HTML5
     - tag: CSS3
-  timeline-side: left
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Atria
+  title-url: https://atriaseniorliving.com
+  date: Presently Employed
+  subtitle: Software Engineer
+  tags:
+    - tag: Alexa Skills
+    - tag: Python
+    - tag: Javascript
+    - tag: Swift
+    - tag: iOS
+    - tag: PHP
+    - tag: HTML5
+    - tag: Javascript
+    - tag: CSS3
+    - tag: Git
+    - tag: Github
   timeline-side: left
+
+- title: Rivera Group
+  title-url: https://www.riveragroup.com
+  subtitle: Software Engineer
+  tags:
+    - tag: neo4j
+    - tag: Angular
+    - tag: Javascript
+    - tag: HTML5
+    - tag: Javascript
+    - tag: CSS3
+    - tag: Git
+    - tag: Github
+  timeline-side: left
+
+- title: Photonic
+  date: Sep 2010 - Present
+  subtitle: Software Engineer
+  tags:
+    - tag: Alexa Skills
+    - tag: Python
+    - tag: Javascript
+    - tag: Swift
+    - tag: iOS
+    - tag: Ruby
+    - tag: Rails
+    - tag: Flask
+    - tag: d3js
+    - tag: Django
+    - tag: PHP
+    - tag: HTML5
+    - tag: Javascript
+    - tag: CSS3
+    - tag: Git
+    - tag: Github
+  timeline-side: right
+
+# - title: Global Data Ethics
+#   title-url: https://www.techatbloomberg.com/blog/why-we-need-community-driven-tech-ethics-two-years-of-the-global-data-ethics-project/
+#   date: Sep 2017 - Present
+#   subtitle: Software Engineer
+#   tags:
+#     - tag: A Linux Foundation Project
+#     - tag: Jekyll
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Git
+#     - tag: Github
+#   timeline-side: left
+#
+# - title: CNET Smart Apartment
+#   title-url: https://www.cnet.com/videos/how-a-kentucky-city-connects-to-the-cnet-smart-apartment/
+#   date: 2017 - Present
+#   subtitle: Software Engineer of Voice
+#   tags:
+#     - tag: Alexa Skills
+#     - tag: Rails
+#   timeline-side: left
+#
+# - title: GovTech - Crowdsourcing for Civic Good
+#   title-url: https://www.govtech.com/data/Louisville-Leverages-Crowdsourcing-for-Civic-Good.html
+#   date: Sep 2016
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: Alexa
+#     - tag: Node
+#     - tag: Javascript
+#     - tag: Ruby/Rails
+#   timeline-side: right
+#
+# - title: United Nations - Unite Ideas Data Challage
+#   title-url: https://www.un.org/press/en/2017/pi2207.doc.htm
+#   date: 2017 - Present
+#   subtitle: GitHub Admin (D4D)
+#   timeline-side: left

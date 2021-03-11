@@ -25,11 +25,61 @@ Scholar, writer, and professor at Texas A&M, Dr. Andrea Roberts, has selected th
     - tag: PostgreSQL
 
 - name: Global Data Ethics Project
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+  descr: "Global Data Ethics Project (GDEP)reflects the complexity of the community-based, multi-stakeholder work that took place over several years. The Data for Good Exchange conferences have served as a regular assembly point for the community to gather in person, punctuating months of research, meetings, and in-depth discussions that individual working groups engaged in and contributed to using digital tools, including GitHub, online discussions, teleconferences and social media, to build the principles from the ground-up. This ensured that people who could not be physically present at a D4GX conference could still contribute their significant insights and perspectives to the ethical discussion. At D4GX 2017, Lilian Huang of the University of Chicago and Natalie Evans Harris organized the initial call for working groups, simultaneously announcing it on social media and in D4D's Slack. Volunteers formed seven working groups, focused on different aspects of data ethics, and I led the following:
+    Thought Diversity: Margeaux Spring
+    Transparency and Openness: Abhijeet Chavan & Margeaux Spring"
+  demo: https://github.com/Data4Democracy
   tags:
     - tag: Python
-    - tag: Django
+    - tag: Jekyll
+    - tag: Javascript
+    - tag: git
+    - tag: GitHub
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: SmartCity
+  descr: "Bright Lights, Smart City - How a Kentucky City Connects..."
+  demo: https://www.cnet.com/videos/how-a-kentucky-city-connects-to-the-cnet-smart-apartment/
+  tags:
+    - tag: Alexa Skills
+    - tag: Jekyll
+    - tag: nodejs
+    - tag: git
+    - tag: GitHub
+
+- name: CityVoice
+  descr: "The Civic Data Alliance, modified and updated the CityVoice application help government entities collect resident feedback about pedestrian safety coinciding with a revamp of a key corridor in our community, Dixie Highway. Through this deployment of CityVoice, we hope that we will be able to collect feedback from residents who might not be able to make it to a community meeting about the project. We will also be getting direct citizen feedback while they are physically in and experiencing the traffic corridor about which we want feedback."
+  demo: https://datasmart.ash.harvard.edu/news/article/louisville-leverages-crowdsourcing-for-civic-good-919
+  tags:
+    - tag: Ruby
+    - tag: Rails
+    - tag: MapBox
+    - tag: Javascript
+    - tag: git
+    - tag: GitHub
+
+
+- name: InvestDivest
+  descr: "The local chapter of Black Lives Matter needed a web portal to post their ongoing community action items. This kit is designed to consolidate the information regarding Invest Divest strategy and resources for Louisville, KY. The solution leveraged is a static site with Jekyll, deployed via Netlify "
+  demo: https://InvestDivest.org
+  tags:
+    - tag: Ruby
+    - tag: Jekyll
+    - tag: Netlify
+    - tag: Javascript
+    - tag: git
+    - tag: GitHub
+    - tag: GitHub Pages
+    - tag: CSS Animations
+
+- name: Smoketown Neighborhood Associations
+  descr: "The Smoketown Neighborhood Association needed a presence online to better serve their community in the Smoketown Neighborhood, Louisville, KY. The solution leveraged is a static site with HTML5, CSS3, deployed via Netlify "
+  demo: https://www.smoketownlouisville.com
+  tags:
+    - tag: HTML5
+    - tag: CSS3
+    - tag: Netlify
+    - tag: Javascript
+    - tag: git
+    - tag: GitHub
+    - tag: GitHub Pages
+    - tag: CSS Animations
