@@ -14,7 +14,7 @@ baseurl: ""
 username: Margeaux
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Software Engineer
+typing_text: Software Engineer & Code Witch
 # email: Your E-Mail address for the email button.
 sms: 502-930-9544
 email: code@margeaux.dev
@@ -22,7 +22,7 @@ email: code@margeaux.dev
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: cheapwebmonkey
-codepen_username: evil666kitty
+codepen_username: cheapwebmonkey-the-encoder
 dev_username: cheapwebmonkey
 linkedin_username: margeauxspring
 twitter_username: cheapwebmonkey
