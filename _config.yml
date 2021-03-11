@@ -82,7 +82,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Contact details below (I prefer SMS) and be sure to checkout my open source workt for the orgs I admin and maintain on Github <a class="highlight-link" href="https://github.com/civicdata" target="_blank" rel="noreferrer"> Civic Data Alliance </a>, <a class="highlight-link" href="https://github.com/OhioValleyCreativeEnergy" target="_blank" rel="noreferrer"> Ohio Valley Creative Energy </a> & <a class="highlight-link" href="https://github.com/Data4Democracy" target="_blank" rel="noreferrer"> Data for Democracy </a>
+contact_description: Contact details below (I prefer SMS) and be sure to checkout my open source work with the orgs I admin and maintain on Github <a class="highlight-link" href="https://github.com/civicdata" target="_blank" rel="noreferrer"> Civic Data Alliance </a>, <a class="highlight-link" href="https://github.com/OhioValleyCreativeEnergy" target="_blank" rel="noreferrer"> Ohio Valley Creative Energy </a> & <a class="highlight-link" href="https://github.com/Data4Democracy" target="_blank" rel="noreferrer"> Data for Democracy </a>
 
 # GITHUB-METADATA
 # Set this to your forked repository
