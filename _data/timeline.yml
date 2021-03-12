@@ -27,10 +27,11 @@
     - tag: iOS
     - tag: PHP
     - tag: HTML5
-    - tag: Javascript
     - tag: CSS3
     - tag: Git
     - tag: Github
+    - tag: Jenkins
+    - tag: Docker
   timeline-side: left
 
 - title: Rivera Group
@@ -41,10 +42,10 @@
     - tag: Angular
     - tag: Javascript
     - tag: HTML5
-    - tag: Javascript
     - tag: CSS3
     - tag: Git
     - tag: Github
+    - tag: Jenkins
   timeline-side: left
 
 - title: Photonic
@@ -53,7 +54,6 @@
   tags:
     - tag: Alexa Skills
     - tag: Python
-    - tag: Javascript
     - tag: Swift
     - tag: iOS
     - tag: Ruby
@@ -67,6 +67,8 @@
     - tag: CSS3
     - tag: Git
     - tag: Github
+    - tag: Jenkins
+    - tag: Docker
   timeline-side: right
 
 # - title: Global Data Ethics
