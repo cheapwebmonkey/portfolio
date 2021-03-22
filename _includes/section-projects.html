@@ -1,5 +1,6 @@
 {% if site.show_projects %}
   <h1 class="title"><span>{{site.projects_title}}</span></h1>
+  <nav>
   <div class="projects-wrapper">
     {% for project in site.data.projects %}
       <div class="project neumorphism-card" data-aos="zoom-in-down">
@@ -88,4 +89,5 @@
       {% endunless %}
     {% endfor %}
   </div>
+  </<nav>
 {% endif %}
