@@ -1,4 +1,4 @@
-### VALUES YOU SHOULD CHANGE ###
+  ### VALUES YOU SHOULD CHANGE ###
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
@@ -114,6 +114,9 @@ google-analytics:
   id: "UA-191863506-1"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
+
+sass:
+    sass_dir: _sass  
 
 plugins:
   - "jekyll-github-metadata"

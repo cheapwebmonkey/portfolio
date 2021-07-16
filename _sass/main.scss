@@ -1,3 +1,8 @@
+---
+---
+
+@charset "utf-8";
+
 /* Imports */
 
 @import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&display=swap');
@@ -15,7 +20,7 @@ $font-size-h1: 2rem !default;
 $font-weight-strong: 700;
 $text-color: #FAFAFA !default;
 $bg-color:  #000;
-$card-bg-color: #000;
+$card-bg-color: #1E1F20;
 $primary-color: #FB0173;
 
 /* General */
@@ -100,6 +105,7 @@ a {
 
 .layout .card .description {
   text-align: justify;
+  padding-top: 9rem;
 }
 
 .neumorphism-button {
@@ -233,7 +239,7 @@ a {
   padding: 0.5rem;
   position: absolute;
   right: 0;
-  top: 40%;
+  top: 10%;
 }
 
 .landing-icons {
@@ -638,13 +644,29 @@ a {
   }
 }
 
+.landing-icons{
+    padding-bottom: 3rem;
+}
+
+p.description {
+    padding-top: 9rem;
+}
 /* Media Queries */
+
+@media only screen and(min-width: 500px){
+    .landing-title {
+
+      top: 40%;
+    }
+}
 
 @media only screen and (min-width: $small-screen) {
   .layout {
     margin: 0.5rem auto;
     padding: 2rem 2rem;
   }
+
+
 
   .layout .card .subtitle {
     font-size: 1.25rem;
@@ -900,3 +922,19 @@ a {
     bottom: 0;
   }
 }
+
+
+//
+// @media only screen and(max-width: 600px){
+//     .mobile-hidden{
+//         display: none;
+//     }
+//
+// }
+//
+// @media only screen and (min-width: 601px){
+//     .mobile-hidden{
+//         display: flex;
+//     }
+//
+// }

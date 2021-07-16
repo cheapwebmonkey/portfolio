@@ -13,6 +13,17 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+    - name: Artic Vault Contributor  
+  descr: "Texas Freedom Colonies Selects Louisville Data Team- Aug 2020
+Scholar, writer, and professor at Texas A&M, Dr. Andrea Roberts, has selected the Root Cause Research Center and Civic Data Alliance to support and develop the next stage of the Texas Freedom Colonies Project. The project is sponsored by the National Trust for Historic Preservation through The African American Cultural Heritage Action Fund. Link to more info about the fund here: https://savingplaces.org/african-american-cultural-heritage"
+  demo: http://www.thetexasfreedomcoloniesproject.com
+  tags:
+    - tag: Python
+    - tag: arcgis
+    - tag: Django
+    - tag: MapBox
+    - tag: PostgreSQL
+
 - name: Texas Freedom Colonies
   descr: "Texas Freedom Colonies Selects Louisville Data Team- Aug 2020
 Scholar, writer, and professor at Texas A&M, Dr. Andrea Roberts, has selected the Root Cause Research Center and Civic Data Alliance to support and develop the next stage of the Texas Freedom Colonies Project. The project is sponsored by the National Trust for Historic Preservation through The African American Cultural Heritage Action Fund. Link to more info about the fund here: https://savingplaces.org/african-american-cultural-heritage"
@@ -83,3 +94,17 @@ Scholar, writer, and professor at Texas A&M, Dr. Andrea Roberts, has selected th
     - tag: GitHub
     - tag: GitHub Pages
     - tag: CSS Animations
+
+- name: Improv Comedy Clubs
+descr: "Improv Comedy Clubs needed custom software solutions to better serve their guests in the Live Comedy space."
+tags:
+    - tag: HTML5
+    - tag: CSS3
+    - tag: Netlify
+    - tag: Javascript
+    - tag: PHP
+    - tag: git
+    - tag: GitHub
+    - tag: CSS Animations
+    - tag: iOS
+    - tag: Swift
