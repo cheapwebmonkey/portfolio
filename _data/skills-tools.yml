@@ -8,8 +8,8 @@
 - name: Git
   weight: 5
 
-- name: a11y
-  weight: 4
+- name: A11y
+  weight: 5
 
 - name: Bash
   weight: 5

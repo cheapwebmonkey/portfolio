@@ -8,6 +8,9 @@
 - name: Python
   weight: 5
 
+- name: Vue
+  weight: 4
+
 - name: TypeScript
   weight: 4
 
